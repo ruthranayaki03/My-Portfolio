@@ -24,5 +24,5 @@ My portfolio will serve as a dynamic, engaging, and professional showcase of you
 https://ruthranayaki03.github.io/Portfolio/
 
 ## Preview
-![1](https://github.com/user-attachments/assets/175bcdfc-07c5-4b5e-b714-3434ccb5047d)
+https://ruthranayaki03.github.io/My-Portfolio/
 
