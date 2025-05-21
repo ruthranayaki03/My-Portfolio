@@ -21,7 +21,7 @@ A Personal Portfolio showcases my work, skills, and experiences using modern fro
 
 My portfolio will serve as a dynamic, engaging, and professional showcase of your frontend development skills.
 ## You just Click here
-https://dharshini1401.github.io/Portfolio/
+https://ruthranayaki 03.github.io/Portfolio/
 
 ## Preview
 ![1](https://github.com/user-attachments/assets/175bcdfc-07c5-4b5e-b714-3434ccb5047d)
